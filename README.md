@@ -1,0 +1,1 @@
+Using the Pygame module of Python I created the base game of chess, including moves like castling, en passant, and pawn promotion (no underpromotion). In the future I will attempt to create an ai model for a player to play against. Currently two players must play head to head on the same device. 
